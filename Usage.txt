@@ -1,0 +1,17 @@
+Flour 2
+Cheese 2
+Meat 2
+Bread 2
+Vegetable 2
+Chicken 2
+Potato 2
+Coffee 2
+Beans 2
+Tea 2
+Chocolate 2
+Soda 2
+Icecream 2
+Egg 2
+Vanilla 2
+Water 2
+Suger 2
